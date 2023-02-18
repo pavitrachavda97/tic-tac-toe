@@ -3,7 +3,7 @@ body
     background-color: #a09da1;
 }
 
-.container 
+.container
 {
     display: grid;
     justify-content: center;

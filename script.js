@@ -6,7 +6,7 @@ const changeTurn = () => {
     if(turn === "X")
     {
         return "0";
-    }
+    }  
     else 
     {
         return "X";
